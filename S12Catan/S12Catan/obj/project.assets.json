@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ninov\\source\\repos\\S12Catan\\S12Catan\\S12Catan.csproj",
+      "projectUniqueName": "C:\\Users\\ninov\\Source\\Repos\\CatanProftaakS21-2019\\CatanProftaakS21\\S12Catan\\S12Catan\\S12Catan.csproj",
       "projectName": "S12Catan",
-      "projectPath": "C:\\Users\\ninov\\source\\repos\\S12Catan\\S12Catan\\S12Catan.csproj",
+      "projectPath": "C:\\Users\\ninov\\Source\\Repos\\CatanProftaakS21-2019\\CatanProftaakS21\\S12Catan\\S12Catan\\S12Catan.csproj",
       "packagesPath": "C:\\Users\\ninov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ninov\\source\\repos\\S12Catan\\S12Catan\\obj\\",
+      "outputPath": "C:\\Users\\ninov\\Source\\Repos\\CatanProftaakS21-2019\\CatanProftaakS21\\S12Catan\\S12Catan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
